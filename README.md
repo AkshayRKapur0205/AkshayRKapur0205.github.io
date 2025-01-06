@@ -1,5 +1,4 @@
 # AkshayRKapur0205.github.io
-CMSC 320 Final Tutorial
 
 By: Akshay Kapur
 
